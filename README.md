@@ -6,6 +6,7 @@
 八股：
 
 * 深度学习相关八股：cv领域的常见模型、模型压缩
-* 语言八股：c/c++/python/cuda/verilog
-* 简历项目
+* 语言八股：c/c++/python/cuda/verilog/操作系统
+* 实习&项目
+* [刷题](https://github.com/sunkx109/my_leetcode)
 
