@@ -1,0 +1,3 @@
+/Users/sunkx/Desktop/Interview/code/src/build/CMakeFiles/hello.dir
+/Users/sunkx/Desktop/Interview/code/src/build/CMakeFiles/edit_cache.dir
+/Users/sunkx/Desktop/Interview/code/src/build/CMakeFiles/rebuild_cache.dir
